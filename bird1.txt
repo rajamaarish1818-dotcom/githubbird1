@@ -1,0 +1,1 @@
+creates bird1.txt file
